@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     title: "Verisure Especialista Leandro Soares",
-    description: "Bem-vindo a Verisure - Especialista Rodrigo",
+    description: "Bem-vindo a Verisure - Especialista Leandro Soares",
     images: [{ url: "https://share.google/CRXn4X25rn9CXJzzi" }],
   },
 };

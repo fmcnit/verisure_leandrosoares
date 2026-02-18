@@ -15,7 +15,7 @@ export default function Home() {
         <div>
           <p className="text-red-600">Especialista de segurança:</p>
           <h1 className=" text-2xl text-red-600 uppercase font-bold">
-            Rodrigo Hart
+            Leandro Soares
           </h1>
         </div>
       </header>
@@ -29,7 +29,7 @@ export default function Home() {
             className="flex m-5 text-white w-1/2 hover:text-red-600 uppercase font-bold bg-red-600 text-center">
             <Link
               href={
-                "https://wa.me/5521995857937?text=Ol%C3%A1%20Especialista%2C%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20gr%C3%A1tis%20do%20sistema%20da%20Verisure%20com%2040%25%20de%20desconto."
+                "https://wa.me/5521996282112?text=Ol%C3%A1%20Especialista%2C%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20gr%C3%A1tis%20do%20sistema%20da%20Verisure%20com%2040%25%20de%20desconto."
               }
               target="_blank">
               Faça sua Cotação
@@ -39,7 +39,7 @@ export default function Home() {
         <Image
           src={"/image.png"}
           alt="minhaImg"
-          width={1260}
+          width={700}
           height={500}
           className="hidden md:flex"
         />
@@ -74,7 +74,7 @@ export default function Home() {
             className="mb-2 text-white hover:text-red-600 uppercase font-bold bg-red-600 text-center">
             <Link
               href={
-                "https://wa.me/5521995857937?text=Ol%C3%A1%20Especialista%2C%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20gr%C3%A1tis%20do%20sistema%20da%20Verisure%20com%2040%25%20de%20desconto."
+                "https://wa.me/5521996282112?text=Ol%C3%A1%20Especialista%2C%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20gr%C3%A1tis%20do%20sistema%20da%20Verisure%20com%2040%25%20de%20desconto."
               }
               target="_blank">
               Solicite Aqui Gratuitamente
@@ -113,7 +113,7 @@ export default function Home() {
               className="m-2 text-white hover:text-red-600 uppercase font-bold bg-red-600 text-center">
               <Link
                 href={
-                  "https://wa.me/5521995857937?text=Ol%C3%A1%20Especialista%2C%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20gr%C3%A1tis%20do%20sistema%20da%20Verisure%20com%2040%25%20de%20desconto."
+                  "https://wa.me/5521996282112?text=Ol%C3%A1%20Especialista%2C%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20gr%C3%A1tis%20do%20sistema%20da%20Verisure%20com%2040%25%20de%20desconto."
                 }
                 target="_blank">
                 Saiba Mais
@@ -126,16 +126,16 @@ export default function Home() {
           className="m-2 text-white hover:text-red-600 uppercase font-bold bg-red-600 text-center md:hidden">
           <Link
             href={
-              "https://wa.me/5521995857937?text=Ol%C3%A1%20Especialista%2C%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20gr%C3%A1tis%20do%20sistema%20da%20Verisure%20com%2040%25%20de%20desconto."
+              "https://wa.me/5521996282112?text=Ol%C3%A1%20Especialista%2C%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20gr%C3%A1tis%20do%20sistema%20da%20Verisure%20com%2040%25%20de%20desconto."
             }
             target="_blank">
             Saiba Mais
           </Link>
         </Button>
       </div>
-      <footer className="h-12 flex items-center justify-center text-red-600 bg-gray-400">
+      <footer className="h-12 flex items-center justify-center text-white bg-gray-400">
         <p className="text-sm md:text-left p-2 text-center">
-          Site desenvolvido para atendimento do especialista Rodrigo Hart da
+          Site desenvolvido para atendimento do especialista Leandro Soares da
           Verisure Brasil - Filial 230
         </p>
       </footer>

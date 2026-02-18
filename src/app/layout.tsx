@@ -14,10 +14,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Especialista Verisure",
-  description: "Especialista Rodrigo Hart da Verisure, em que posso ajudar?",
+  description: "Orçamentos grátis só me chamar aqui pelo whatsapp",
   openGraph: {
     type: "website",
-    title: "Verisure Especialista Rodrigo",
+    title: "Verisure Especialista Leandro Soares",
     description: "Bem-vindo a Verisure - Especialista Rodrigo",
     images: [{ url: "https://share.google/CRXn4X25rn9CXJzzi" }],
   },
